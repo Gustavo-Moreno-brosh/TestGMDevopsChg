@@ -32,8 +32,8 @@ jobs:
         uses: ServiceNow/servicenow-devops-change@v4.1.0
         with:
           # Devops Integration Token
-          devops-integration-user-name: devops.integration.user
-          devops-integration-user-password: Gama2024*
+          devops-integration-user-name: admin #devops.integration.user
+          devops-integration-user-password: Wn@9eANy$0Sn #Gama2024*
           # ServiceNow Instance URL
           instance-url: https://dev230972.service-now.com/
           # Orchestration Tool Id
