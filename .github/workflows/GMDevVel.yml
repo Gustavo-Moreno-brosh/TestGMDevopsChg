@@ -24,7 +24,7 @@ jobs:
   ServiceNowDevOpsChange:
     # jobs that must complete successfully before this job will run
     needs: build
-    # type of machine to run the job on
+    # type of machine to run the job on lol
     runs-on: ubuntu-latest
     name: 'ServiceNow DevOps Change'
     steps:
